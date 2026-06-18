@@ -1,4 +1,4 @@
-module github.com/anchore/go-rpmdb
+module github.com/MackJM/go-rpmdb
 
 go 1.22.0
 
